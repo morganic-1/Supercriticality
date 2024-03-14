@@ -1,5 +1,12 @@
 {
     "renders": [
+        {
+            "image": {
+                "parent": "builtin/image",
+                "image": "config:textures/background_texture_16x16.png"
+            }
+        }
+
     ],
     "functions":[
     ],
