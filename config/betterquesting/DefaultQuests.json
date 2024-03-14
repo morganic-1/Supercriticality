@@ -1,0 +1,2812 @@
+{
+  "build:8": "4.2.1",
+  "format:8": "2.0.0",
+  "questDatabase:9": {
+    "0:10": {
+      "preRequisites:11": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "his youtube description puts it best \n\"Welcome to my channel where mostly I will be making in depth tutorials for Minecraft mods and sharing my builds and knowledge to help the community out as much as I can. But aside from Minecraft you can also expect some other games and even music on the channel. \"\n\nif you need to figure out how to do something or how somthing works he probably has a tutorial for it\nsome of his tutorials are old but that is good for us because we are lacking in content for HBM\u0027s\n\nhis yt is: https://www.youtube.com/@SavageVegeta",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:meltdown_tool"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "The man, the myth, the legend",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 0,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "1:10": {
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "HBM’s nuclear tech mod is a Minecraft mod that adds various types of nuclear weapons and explosives, as well as machines and components related to atomic science and technology. \nThe mod features an expansive tech tree of processing and utility machines, craftable bombs and missiles, guns, and abandoned structures to explore. The mod also adds realistic effects of radiation, fallout, and blast waves to the game. The mod is based on the original 1.7.10 version by HBM and his contributors and was ported to 1.12.2 by Drillgon, TheOriginalGolem, and others. The mod has been updated and expanded by various developers, such as 70000HP, Mexikoedi, Alcater, and more. HBM’s nuclear tech mod is a mod for Minecraft enthusiasts who enjoy experimenting with nuclear physics, engineering, and warfare. The mod offers a lot of content and challenges for players who want to create their own nuclear reactors, rockets, nukes, weapons, and bunkers. The mod is not for the faint of heart, as it can cause massive destruction and fire, as well as environmental and health hazards.\n\nThey have like 3(?) Wikis so I\u0027ll link the 2 most important but I can\u0027t guarantee that the wikis will make sense due to the fact that the 1.12.2 and 1.7.10 versions have massive differences\n\nhttps://ntm.fandom.com/wiki/HBM%27s_Nuclear_Tech_Wiki\nhttps://ntm-alcateredition.fandom.com/wiki/HBM%27s_Nuclear_Tech_-_Alcater_Edition_Wiki",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:nuke_man"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Horrible java code since \u002714!",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 1,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:gas_mask_m65"
+            },
+            "1:10": {
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:gas_mask_filter"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "2:10": {
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "MC Heli is a Minecraft mod that adds various types of helicopters, planes, and drones to the game. The mod also adds realistic physics, sounds, and effects to the vehicles, such as rotors, wings, missiles, and guns. MC Heli is a mod for Minecraft enthusiasts who enjoy flying and fighting with helicopters, planes, and drones. The mod offers a lot of content and challenges for players who want to explore the world, create their own air force, or engage in aerial combat.\n\nthere is no wiki for this mod and youtube videos may not be acurate due to the fact that the mod was originally made for 1.7.10 but the port to 1.12.2 has only been made recently so you are on your own with this one. Here be dragons!",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "mcheli:mh-6",
+              "orig_meta:3": 0
+            }
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "BOMBS AWAYYYYYYYY!!!!!!",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 3,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "mcheli:drafting_table",
+                "orig_meta:3": 0
+              }
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "3:10": {
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "In this modpack, there are several useful mods one of which is JEI. Just Enough Items (JEI) is a mod that allows you to view and search through all the items and recipes in Minecraft. You can open JEI by opening your inventory. You will see a list of items on the right side of the screen. You can click on the search bar at the bottom and type the name or part of the item\u0027s name. You can also use prefixes, symbols, and operators to refine your search. For example, you can type @ to search by mod name, $ to search by ore dictionary name, or - to exclude a term. To see the recipe or use of an item, hover over it and press R or left-click to see how to make it, or press U or right-click to see what it can be used for. You can scroll the mouse wheel to see the next or previous page of recipes or uses. To move items into the crafting area, click the plus button on the top right corner of the recipe screen, or shift-click to move multiple sets of items. This only works if you have the required items in your inventory or in a nearby container. To bookmark an item for later use, press A while hovering over it. You will see a list of bookmarked items on the left side of the screen. You can click on them to see their recipes or uses or press A again to remove them.\n\n\nAnother utility is the converter sheet. Its origin is rather elaborate but it can be helpful when crafting. the easiest way to summarize it is a convoluted story as follows: Long before time in a place far far from here, Forge was created. Forge was a modding API for Minecraft and as it matured, it said “Man, having 26 different types of the same material from different mods sucks.” so it created oreDict. oreDict was a way for modders to unify items and resources like for example copper. Say one mod X had a copper ore and ingot, and another mod Y also had a copper ore and ingot. Let\u0027s say that X had a recipe for armor made of copper but you needed the copper from the X mod. Let\u0027s say you had no copper from X but you did have copper from Y. You could not craft the armor from X because the entry on the craft for X only had its own copper. With oreDict recipes could be made to use any copper. But problems still persist. Whether it is people not configuring resources correctly or recipes not being set up right. That is where this item comes in. The converted sheet converts between oreDicts using a GUI. This will be necessary for progression due to the fact that some things are broken and cannot be fixed in their current state\n",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "betterquesting:placeholder"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Some more notes for the road",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 4,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "taxoc:ore_converter",
+                "orig_meta:3": 0
+              }
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "4:10": {
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Modern Warfare cubed mod is a Minecraft mod that adds realistic and customizable modern weapons, explosives, vehicles, and more to the game. It is an open-source, well-optimized fork of Vic’s Modern Warfare, which was discontinued in 2019. The mod introduces a wide range of modern weapons, such as assault rifles, sniper rifles, shotguns, pistols, and more. These weapons have authentic sound effects, animations, and attachments. The mod also adds tablets and cameras that can be used to spy on mobs and players. The mod is for Minecraft enthusiasts who enjoy experimenting with modern warfare and technology. The mod is developed by Paneedah and the Cubed Development Team, who also accept contributions and donations from the community.\n\nThey do not have a wiki yet but all you need to craft guns is a weapon/armor workbench and an ammo press. \nThey do have a discord but its mostly used for troubleshooting and development",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "mwc:m38_dmr"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "\"Your dog was in the way so I had to smoke him like a blunt\"",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 5,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "5:10": {
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The anvil is used to make numerous items, either exclusively or acting as a cheaper/more efficient alternative recipe. These recipes do not require the use of the top slots, rather the items just have to be in the inventory. Select the desired recipe in the scrolling section or search for it, then click the anvil button to craft 1. Left-shift clicking will attempt to craft an entire stack, if possible. Excess is dropped, so it is not lost.\n\nCraft an Iron anvil.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:anvil_iron"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Tier 1 Iron anvil",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 6,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:anvil_iron"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "6:10": {
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The Template Folder is perhaps the most important tool in NTM. It is used in creating almost all machines, all templates, and all Fluid Identifiers, Press Stamps, and Siren Tracks.\n\nCraft a template Folder",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:template_folder"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Template Folder",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 7,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:dye"
+            },
+            "1:10": {
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:paper"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:template_folder"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "7:10": {
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Known simply as the press it is powered by flammable materials like coal/charcoal, lignite, or solid fuel. Do not just stick an entire stack of fuel in there, as the press will consume it even when not doing anything. It takes a minimum of ~16 furnace operations to bring the pressure into optimum (yellow range), which is only 2 coal/charcoal or 1 solid fuel. Anything above ~32 furnace operations is completely unnecessary as it would max out the pressure and waste the fuel inputted. The press may function without fuel for a short period of time before the pressure drops down to the blue (non-operating pressure) and stops, maybe even in the middle of the press\u0027 movement, where it will take more fuel to be inserted for the press to rise back up to the top and begin normal operation, potentially wasting time and fuel.\nCraft a Flat Stamp of whatever material you want, then select a stamp in the Template Folder and put it in the top slot.\n\nCraft a burner press.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:machine_press"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Burner press",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 8,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:stamp_steel_flat"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_press"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "8:10": {
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The anvil is used to make numerous items, either exclusively or acting as a cheaper/more efficient alternative recipe. These recipes do not require the use of the top slots, rather the items just have to be in the inventory. Select the desired recipe in the scrolling section or search for it, then click the anvil button to craft 1. Left-shift clicking will attempt to craft an entire stack, if possible. Excess is dropped, so it is not lost.\n\nCraft an lead anvil.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:anvil_lead"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Tier 1 Lead Anvil",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 9,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:anvil_lead"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "9:10": {
+      "preRequisites:11": [
+        8,
+        6,
+        7
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Craft 2 copper pannels.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:board_copper"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Copper Pannel",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 10,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:board_copper"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "10:10": {
+      "preRequisites:11": [
+        10
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "A lava/solid fuel-powered furnace used to create different alloys out of two inputs.\nPut two compatible items in the top and bottom slots (order does not matter) and power it with a lava bucket or certain solid fuels.\n\nUnlocks several alloys\n\nCraft a blast furnace",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:machine_difurnace_off"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 1,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Blast Furnace",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 11,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:lava_bucket"
+            },
+            "1:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_difurnace_ext"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_difurnace_off"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "11:10": {
+      "preRequisites:11": [
+        11,
+        25
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Being used for crafting almost anything, steel may be the most important material when it comes to advanced technology. Getting steel is the very first step to start the atomic age - everything needs better and tougher parts. Steel can be made with the blast furnace by combining coal with iron, this will give you two ingots of steel.\n\nCreate steel in a blast furnace",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "Steel",
+            "id:8": "hbm:ingot_steel"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Steel",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 12,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:ingot_red_copper"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:ingot_steel"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "12:10": {
+      "preRequisites:11": [
+        25
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:diamond"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 1,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "New Quest",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 13,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "13:10": {
+      "preRequisites:11": [
+        11
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Red copper (aka Minecraft Grade Copper) is an alloy of Redstone and Copper. It is probably one of the first alloys you\u0027ll need to make after steel. Its primary use is to make wires in Red Copper Cables at least at this point. It is very useful in a multitude of places, mainly electrical components of machines. The hardest part is acquiring lots of Redstone, but once you do, you can mass-produce red copper for all its uses.\n\nCreate Red copper in a blast furnace.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:ingot_red_copper"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Red Copper",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 14,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:ingot_steel"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:ingot_red_copper"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "14:10": {
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Conveyor belts can be used to move items from one place to another. They can be used to automate production if used along with ejectors and inserters. Conveyors can pick up dropped blocks to move them, both singular and whole stacks at once. Conveyors cannot move entities. Conveyor belts come in four variations: Standard, Express, Double, and Triple.\nThere are also chutes and belt elevators for transporting items vertically, and conveyor splitters for distributing evenly.\nConveyor Belts can be configured with a screwdriver.\n\nCraft some conveyor belts.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:conveyor"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Conveyors",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 15,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:crane_inserter"
+            },
+            "1:10": {
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:crane_ejector"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:conveyor"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "15:10": {
+      "preRequisites:11": [
+        14,
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Advanced alloy is a, well, advanced alloy made from steel and red copper. Despite having an uninventive name, it is very useful in a vast assortment of places. It is used to make tools, armor, superconductors, Advanced Factories, and much more. It has just as much use in electrical components as red copper, maybe more, and they\u0027re all mid-late game. Advanced Alloy can be made with the Blast Furnace, or it can be found in Spaceships. When used as an armor or tool material, its capabilities are comparable to that of diamonds in vanilla minecraft.\n\nCreate some advanced alloy in a blast furnace.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:ingot_advanced_alloy"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Advanced Alloy",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 16,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:ingot_advanced_alloy"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "16:10": {
+      "preRequisites:11": [
+        14,
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The Combustion Generator is the cheapest early game method to generate electricity. Being a simple generator, it only requires a flammable material (anything that works in a furnace will do) and water. It accepts water from buckets, rods, universal tanks and barrels as well as external pipes and the infinite water tank.\n\nCraft a Combustion Generator\n",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:machine_coal_off"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Combustion Generator",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 17,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:inf_water"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_coal_off"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "17:10": {
+      "preRequisites:11": [
+        48
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The Firebox is used to produce TU. This is then used for the Boiler or the Steel Furnace. For fueling the Firebox, you need a burnable resource. Certain resources give more bonuses than other.\n\nCraft a firebox",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:heater_firebox"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Firebox",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 18,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:heater_firebox"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "18:10": {
+      "preRequisites:11": [
+        48
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The heating oven is mostly the same as the firebox only difference being that the oven can store more TU and it should be more efficient.\n\nCraft a heating oven.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:heater_oven"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Heating oven",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 19,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:heater_oven"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "19:10": {
+      "preRequisites:11": [
+        48
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Like the firebox and oven, the fluid burner burns to produce TU.  It has 100% efficiency and can burn any fluid that gives TU when burnt. The fluid burner has a Buffer of 16000mb and is set by default to burn Heating Oil. The most powerful fuel available to the fluid burner is Balefire Rocket fuel(256MTU), while the weakest is Red Mud(1kTU).",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:heater_oilburner"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Fluid burner",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 20,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:fluid_duct_mk2"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:heater_oilburner"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "20:10": {
+      "preRequisites:11": [
+        28
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "One way or another you\u0027ve made it here and have managed to make power. You made the first step into the actual modded progression, congrats! Now prepare for countless hours of your time to be wasted and welcome to modded Minecraft.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:mp_fuselage_10_solid_duracell"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Power!",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 21,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:gas_mask_filter"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "21:10": {
+      "preRequisites:11": [
+        19,
+        18,
+        20
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "To start work, firstly place any machine that makes TU, and then on top of it place a boiler so the two copper plates will be connected. To change between heating oil and boiling water, use fluid IDs (Hot crude oil identifier for example) by clicking the right mouse button on the boiler while holding the fluid ID.\nThe boiler has 3 connections that connect universal fluid ducts. One on top, and two on the sides.\nImproper operation can result in the boiler exploding. (The boiler will explode if the exported liquid is full / overflows)\n\nCraft a boiler.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:heat_boiler"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Boiler",
+          "questlogic:8": "OR",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 22,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:heat_boiler"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "22:10": {
+      "preRequisites:11": [
+        22
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The Steam Turbine is a generator that generates HE when being supplied with steam. It has a 1 MHE power buffer, a 64,000 MB input buffer, and a 128,000 MB output buffer. Designate your type of steam (normal, dense or super dense) with a Fluid ID and fill it up, the turbine decompresses Super Dense Steam into Dense Steam and so on. When hooked up to a nuclear reactor with a steam pipe set using a fluid ID to whatever steam type you set the reactor to produce, the boiler will produce electricity and store it. When hooked up to a machine or power storage block, it will use the electricity to power whatever it is connected to. It can also charge batteries.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:machine_turbine"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Steam Turbine",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 23,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_condenser"
+            },
+            "1:10": {
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:fluid_duct_mk2"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_turbine"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "23:10": {
+      "preRequisites:11": [
+        47,
+        44
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:iron_ingot"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Iron",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 25,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "24:10": {
+      "preRequisites:11": [
+        25
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:iron_helmet"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Iron Armor",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 26,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "25:10": {
+      "preRequisites:11": [
+        25
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:iron_pickaxe"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Iron Tools",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 27,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "26:10": {
+      "preRequisites:11": [
+        23,
+        17
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "What every machine uses to input or output energy, there\u0027s also Coated Red Copper Cable that functions in the same manner but is a block, useful for when it\u0027s crossing through a wall or other solid object.\n\nCraft some red copper cables.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:red_cable"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Red Copper Cables",
+          "questlogic:8": "OR",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 28,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "27:10": {
+      "preRequisites:11": [
+        21
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Running power all the way from your base to your outposts would suck if you only had cables to work with. Luckily, there\u0027s pylons!\n\nBasic power poles are simple enough, power I/O on the bottom block and link them up with your cable drum. This works well between buildings in a base, for example, but if you want ot go §oreally§r far you\u0027ll want to use the large pylons.\n\nThe large pylons are a tiny bit more involved. Instead of having an I/O port on the bottom, they\u0027ll access your grid through substations. These large structures have 4 I/O ports on the bottom, and can connect to the large pylons or eachother. You\u0027ll want one substation wherever you need access to your grid. Pylons can attatch to several other pylons, so you can split up your grid easily.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:red_pylon_large"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Long Distance Power Transport",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 29,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:red_pylon_large"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:red_pylon_large"
+            },
+            "1:10": {
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:substation"
+            },
+            "2:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:red_pylon"
+            },
+            "3:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:wiring_red_copper"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "28:10": {
+      "preRequisites:11": [
+        21
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Just hold shift and read the tool tip",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:cable_diode"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Power Diode",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 30,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:cable_diode"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "29:10": {
+      "preRequisites:11": [
+        16
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:alloy_helmet"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Advanced Alloy Armor",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 31,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "30:10": {
+      "preRequisites:11": [
+        21
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The Assembly Machine (also referred to as the assembler) is a key machine in every stage of the game in NTM with it being used to manufacture practically every complex machine. The assembly machine takes an assembly template to designate the recipe it will use and then will assemble the product within a specified period of time indicated on the recipe. \nThe GUI for the assembly machine can be accessed by right clicking it. It takes in materials from the port with the green arrow on it and pushes out finished products from the port with the red arrow on it. The four points on both sides of the machine are power inputs which in total consume 2kHE/s.\nDespite the fact that the assembly machine can create wires and plates, it is not recommended to use it for this purpose due to the fact that it produces fewer wires and plates compared to the equivalent press recipe. As well as this, there are certain recipes for the assembly machine which have exact equivalents on the anvil, such as various upgrades and more efficient wire/plate recipes.\n\nMake an Assembly machine.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:machine_assembler"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 1,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Assembly Machine",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 32,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_assembler"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "31:10": {
+      "preRequisites:11": [
+        16
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:alloy_pickaxe"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Advanced Alloy Tools",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 33,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "32:10": {
+      "preRequisites:11": [
+        21
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Converters convert RF to HE or HE to RF, depending on which block you use. Plug in your RF input or output of choice along with your HE input or output of choice to the appropriate block.\nThe conversion ratio is 1HE\u003d4RF.\n",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:machine_converter_rf_he"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Converting power",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 34,
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_converter_he_rf"
+            },
+            "1:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:machine_converter_rf_he"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "33:10": {
+      "preRequisites:11": [
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:steel_pickaxe"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Steel Tools",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 35,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "34:10": {
+      "preRequisites:11": [
+        13
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:diamond_helmet"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "New Quest",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 36,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "35:10": {
+      "preRequisites:11": [
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:steel_helmet"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Steel Armor",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 37,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "36:10": {
+      "preRequisites:11": [
+        39
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:titanium_helmet"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Titanium Armor",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 38,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "37:10": {
+      "preRequisites:11": [
+        25,
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:ingot_titanium"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Titanium",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 39,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "38:10": {
+      "preRequisites:11": [
+        39
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:titanium_pickaxe"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Titanium Tools",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 40,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "39:10": {
+      "preRequisites:11": [
+        13
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:diamond_pickaxe"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "New Quest",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 41,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "40:10": {
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:log"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 1,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Wood",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 42,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "41:10": {
+      "preRequisites:11": [
+        42
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:cobblestone"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Stone",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 43,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "42:10": {
+      "preRequisites:11": [
+        43
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:furnace"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Furnace",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 44,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "43:10": {
+      "preRequisites:11": [
+        25,
+        44
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:furnace_iron"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Iron Furnace",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 45,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "44:10": {
+      "preRequisites:11": [
+        43
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:ingot_copper"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Copper",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 46,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "45:10": {
+      "preRequisites:11": [
+        43
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:iron_ore"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Iron Ore",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 47,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      }
+    },
+    "46:10": {
+      "preRequisites:11": [
+        9,
+        6,
+        12
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "Anvils are a special type of block that allows the processing of certain specialized recipes.Unlike the vanilla anvil, NTM anvils are tiered, do not degrade over time, and do not require XP levels to work. They cannot process vanilla anvil recipes, however, so that is a disadvantage. The anvil is used to make numerous items, either exclusively or acting as a cheaper/more efficient alternative recipe. These recipes do not require the use of the top slots, rather the items just have to be in the inventory. Select the desired recipe in the scrolling section or search for it, then click the anvil button to craft 1. Left-shift clicking will attempt to craft an entire stack, if possible. Excess is dropped, so it is not lost. Both the Assembly Machine and Blast Furnace have to be made using an anvil. Also, forged forms of Meteorite are made there, as well as Chainsteel.\n\nCombine 10 steel with the iron anvil on the lead anvil to craft the steel anvil.\n",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:anvil_steel"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Steel anvil",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questID:3": 48,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "entryLogic:8": "AND",
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:anvil_steel"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    }
+  },
+  "questLines:9": {
+    "0:10": {
+      "lineID:3": 0,
+      "order:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "Have you tried turning it off and on again?",
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "betterquesting:placeholder"
+          },
+          "name:8": "Info and Help",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "quests:9": {
+        "0:10": {
+          "id:3": 0,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": -12,
+          "y:3": -12
+        },
+        "1:10": {
+          "id:3": 1,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": 84,
+          "y:3": -108
+        },
+        "2:10": {
+          "id:3": 3,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": -108,
+          "y:3": -108
+        },
+        "3:10": {
+          "id:3": 4,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": -108,
+          "y:3": 84
+        },
+        "4:10": {
+          "id:3": 5,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": 84,
+          "y:3": 84
+        }
+      }
+    },
+    "1:10": {
+      "lineID:3": 2,
+      "order:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "Yeah no I think the wiki has details on that",
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:nuke_man"
+          },
+          "name:8": "Getting Started: HBM’s NTM",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "quests:9": {
+        "0:10": {
+          "id:3": 0,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": 0
+        },
+        "1:10": {
+          "id:3": 6,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -36,
+          "y:3": 36
+        },
+        "2:10": {
+          "id:3": 7,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": 36
+        },
+        "3:10": {
+          "id:3": 8,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 36,
+          "y:3": 36
+        },
+        "4:10": {
+          "id:3": 9,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -72,
+          "y:3": 36
+        },
+        "5:10": {
+          "id:3": 10,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": 72
+        },
+        "6:10": {
+          "id:3": 11,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": -12,
+          "y:3": 108
+        },
+        "7:10": {
+          "id:3": 12,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -72,
+          "y:3": 120
+        },
+        "8:10": {
+          "id:3": 14,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 72,
+          "y:3": 120
+        },
+        "9:10": {
+          "id:3": 15,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 72,
+          "y:3": 36
+        },
+        "10:10": {
+          "id:3": 16,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 108,
+          "y:3": 120
+        },
+        "11:10": {
+          "id:3": 17,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": 168
+        },
+        "12:10": {
+          "id:3": 18,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": 168
+        },
+        "13:10": {
+          "id:3": 19,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -72,
+          "y:3": 168
+        },
+        "14:10": {
+          "id:3": 20,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -144,
+          "y:3": 168
+        },
+        "15:10": {
+          "id:3": 21,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": -12,
+          "y:3": 240
+        },
+        "16:10": {
+          "id:3": 22,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": 204
+        },
+        "17:10": {
+          "id:3": 23,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": 240
+        },
+        "18:10": {
+          "id:3": 28,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -48,
+          "y:3": 204
+        },
+        "19:10": {
+          "id:3": 29,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 48,
+          "y:3": 300
+        },
+        "20:10": {
+          "id:3": 30,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 48,
+          "y:3": 252
+        },
+        "21:10": {
+          "id:3": 32,
+          "sizeX:3": 48,
+          "sizeY:3": 48,
+          "x:3": -12,
+          "y:3": 336
+        },
+        "22:10": {
+          "id:3": 34,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 48,
+          "y:3": 204
+        },
+        "23:10": {
+          "id:3": 48,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": 120
+        }
+      }
+    },
+    "2:10": {
+      "lineID:3": 3,
+      "order:3": 2,
+      "properties:10": {
+        "betterquesting:10": {
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "\"ThIs MOd Is SOo UnBAlanCED!!!11@!11!1\"\n\nMaterials on the same Y level have the s mining level, most differences only being durability\n",
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "hbm:meteorite_sword"
+          },
+          "name:8": "Gear and Alloys",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "quests:9": {
+        "0:10": {
+          "id:3": 12,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -84,
+          "y:3": -156
+        },
+        "1:10": {
+          "id:3": 13,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 84,
+          "y:3": -288
+        },
+        "2:10": {
+          "id:3": 16,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -84,
+          "y:3": -288
+        },
+        "3:10": {
+          "id:3": 25,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 84,
+          "y:3": -156
+        },
+        "4:10": {
+          "id:3": 26,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 108,
+          "y:3": -192
+        },
+        "5:10": {
+          "id:3": 27,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 108,
+          "y:3": -120
+        },
+        "6:10": {
+          "id:3": 31,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": -324
+        },
+        "7:10": {
+          "id:3": 33,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": -252
+        },
+        "8:10": {
+          "id:3": 35,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": -120
+        },
+        "9:10": {
+          "id:3": 36,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 108,
+          "y:3": -324
+        },
+        "10:10": {
+          "id:3": 37,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -108,
+          "y:3": -192
+        },
+        "11:10": {
+          "id:3": 38,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 24,
+          "y:3": -252
+        },
+        "12:10": {
+          "id:3": 39,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": -216
+        },
+        "13:10": {
+          "id:3": 40,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -24,
+          "y:3": -252
+        },
+        "14:10": {
+          "id:3": 41,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 108,
+          "y:3": -252
+        },
+        "15:10": {
+          "id:3": 42,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": 0
+        },
+        "16:10": {
+          "id:3": 43,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": -36
+        },
+        "17:10": {
+          "id:3": 44,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 36,
+          "y:3": -36
+        },
+        "18:10": {
+          "id:3": 45,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -84,
+          "y:3": -36
+        },
+        "19:10": {
+          "id:3": 46,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -36,
+          "y:3": -36
+        },
+        "20:10": {
+          "id:3": 47,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 0,
+          "y:3": -72
+        }
+      }
+    }
+  },
+  "questSettings:10": {
+    "betterquesting:10": {
+      "editmode:1": 0,
+      "hardcore:1": 0,
+      "home_anchor_x:5": 0.5,
+      "home_anchor_y:5": 0.0,
+      "home_image:8": "betterquesting:textures/gui/default_title.png",
+      "home_offset_x:3": -128,
+      "home_offset_y:3": 0,
+      "livesdef:3": 3,
+      "livesmax:3": 10,
+      "pack_name:8": "",
+      "pack_version:3": 0,
+      "party_enable:1": 1
+    }
+  }
+}
