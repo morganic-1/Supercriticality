@@ -1,0 +1,413 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  input_string = video:resources/background.mp4;islocal:true;loop:true;volume:0;
+  action = api:custombackground
+  type_identifier = fancymenu_extension:video_background
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 1000
+  action = movebutton
+  y = 184
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-left
+  x = 1000
+  action = movebutton
+  y = 344
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-left
+  x = 1000
+  action = movebutton
+  y = 505
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 1000
+  action = movebutton
+  y = 263
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = top-left
+  x = 1000
+  action = movebutton
+  y = 425
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 506
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = ab22b33a-1d51-4257-9053-c7bc5446b2161710540472113
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = 3aa40e48-2ba8-4f45-bd73-8d4076b254181710540472128
+  y = 678
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 1051
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = b530721e-da7f-4703-882d-42bdf0471fb31710540472128
+  y = 700
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 743
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 0057efd7-85e8-41b7-ae5a-d589c2a6ffee1710540472129
+  y = 280
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 503
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = cc0f89bb-5374-4733-8b37-008f27ed98211710540472129
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-left
+  splash_color = #ffff00
+  hidden = false
+  x = 549
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 697f00ea-be44-446d-8bda-c0b9059cf2501710540472129
+  y = 98
+  height = 30
+}
+
+customization {
+  path = resources/border_corner_top_left.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = d7eb537a-9996-425e-b259-4da582b0743e1710541535398
+  action = addtexture
+  y = 220
+  height = 15
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 09d3c919-567e-40d5-8741-464eb2c0daef1710541677630
+  action = addtexture
+  y = 454
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 4fef38fd-13b2-4952-9fcf-9fb81e02fbd71710541711629
+  action = addtexture
+  y = 352
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 0d2d053c-6200-4cd0-b1c7-4d37f422c57a1710541721929
+  action = addtexture
+  y = 235
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = ddb25632-105d-4f11-a4ca-3ab0bf4001a11710541726096
+  action = addtexture
+  y = 252
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 26d1e1d0-58be-4142-a1bb-cdba898ad6c11710541730128
+  action = addtexture
+  y = 268
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = d67f5110-3103-4f0f-9783-8a49e44cba671710541733895
+  action = addtexture
+  y = 369
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 8ead3b43-cca7-4ca7-b3e1-936b02c3857c1710541737796
+  action = addtexture
+  y = 319
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = b6f89f60-0d3d-4913-9e1f-74179916fe781710541740895
+  action = addtexture
+  y = 302
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = f9450279-a461-4eec-ae3b-8a0b66fc90351710541744195
+  action = addtexture
+  y = 335
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 55abe145-d45d-4f59-a200-79c7e63bf7a61710541747095
+  action = addtexture
+  y = 437
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 6dedf8db-432c-4de1-8b6d-a9c015040aa21710541759796
+  action = addtexture
+  y = 420
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = fbeb0e2c-a312-4907-af63-0764e57347f51710541764995
+  action = addtexture
+  y = 285
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = aedb25c3-986a-4e35-a02d-c5d107e2921e1710541768395
+  action = addtexture
+  y = 403
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 462f7019-5683-4b2f-ac3b-4037f043aedc1710541771728
+  action = addtexture
+  y = 386
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = cdeb8fb2-de2b-499b-8bd8-9d8f55b1c2ca1710542015750
+  action = addtexture
+  y = 467
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = 6edcbbe2-ac80-4e7e-9824-f91149db11941710542058882
+  action = addtexture
+  y = 484
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = d033bf2d-2786-407d-8ac5-5273a5d53d041710542066083
+  action = addtexture
+  y = 501
+  height = 17
+}
+
+customization {
+  path = resources/border_hieght.png
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = dac4195f-2899-409f-8ded-9a1bacb4fbdc1710542070849
+  action = addtexture
+  y = 513
+  height = 17
+}
+
+customization {
+  path = resources/border_corner_bottom_left.jpg
+  orientation = top-left
+  x = 50
+  width = 15
+  actionid = ab7826d3-e61e-4dcb-9c86-79965d5eba641710541588731
+  action = addtexture
+  y = 520
+  height = 15
+}
+
+customization {
+  path = resources/border_full.png
+  orientation = top-left
+  x = 39
+  width = 500
+  actionid = e199ad9a-a17b-4ff5-8766-aaa7c34fa18a1710543959853
+  action = addtexture
+  y = 204
+  height = 300
+}
+
+customization {
+  path = resources/logo.png
+  orientation = top-left
+  x = 38
+  width = 502
+  actionid = a509b7f1-ceb7-4683-a32d-cbcebd1c10b71710544279316
+  action = addtexture
+  y = 33
+  height = 64
+}
+
+customization {
+  orientation = top-left
+  name = cool_slideshow
+  x = 55
+  width = 464
+  actionid = 0de520f3-8fbe-4fea-aa94-e0e737da872c1710622289080
+  action = addslideshow
+  y = 218
+  height = 270
+}
+
